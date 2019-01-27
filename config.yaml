@@ -1,0 +1,5 @@
+awsaccesskeyid: "KEY HERE"
+awssecretaccesskey: "SECRET HERE"
+awsregion: "REGION HERE"
+hostedzoneid: "Hosted Zone ID HERE"
+domainname: "Domain name for created record HERE"
